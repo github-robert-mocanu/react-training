@@ -1,0 +1,21 @@
+.form-input {
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    margin: 10px 0;
+}
+
+.form-input input {
+    padding: 15px;
+    margin: 10px 0;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.6rem;
+    font-family: inherit;
+}
+
+.form-input label {
+    font-size: 1.2rem;
+    color: gray;
+}
